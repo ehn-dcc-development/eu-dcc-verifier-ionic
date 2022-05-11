@@ -1,6 +1,7 @@
 # Ionic EU-DCC Verifier
 [![Issues](https://img.shields.io/github/issues/ehn-dcc-development/eu-dcc-verifier-ionic?style=for-the-badge)](https://github.com/ehn-dcc-development/eu-dcc-verifier-ionic/issues) [![License](https://img.shields.io/github/license/ehn-dcc-development/eu-dcc-verifier-ionic?style=for-the-badge)](https://github.com/ehn-dcc-development/eu-dcc-verifier-ionic#licensing) [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://eu-dcc-verifier.web.app/)
-
+  
+  
 An Ionic and Angular implementation for scanning and verifying [EU Digital Covid Certificates](https://github.com/ehn-dcc-development/hcert-spec).
 
 ## Dependecies, Run and Build
