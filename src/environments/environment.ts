@@ -6,7 +6,7 @@ import { MockBackendInterceptor } from '../app/interceptors/mock-backend.interce
 
 export const environment = {
   production: false,
-  version: '1.0.0',
+  version: '1.0.1',
   api: {
     base: 'https://ets.betterevents.live/event/api/v1/',
   },
